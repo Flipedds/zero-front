@@ -5,8 +5,8 @@ export const items = [
     {id: 4, name: 'Item D', lot: 'Lote 20', expiryDate: '2023-07-15', quantity: 5},
     {id: 5, name: 'Item E', lot: 'Lote 25', expiryDate: '2024-12-03', quantity: 20},
     {id: 6, name: 'Item F', lot: 'Lote 30', expiryDate: '2024-06-10', quantity: 8},
-    {id: 7, name: 'Item G', lot: 'Lote 35', expiryDate: '2024-06-14', quantity: 12},
-    {id: 8, name: 'Item H', lot: 'Lote 40', expiryDate: '2024-06-16', quantity: 10},
+    {id: 7, name: 'Item G', lot: 'Lote 35', expiryDate: '2024-06-19', quantity: 12},
+    {id: 8, name: 'Item H', lot: 'Lote 40', expiryDate: '2024-06-20', quantity: 10},
 ];
 
 export const desperdicios = items
